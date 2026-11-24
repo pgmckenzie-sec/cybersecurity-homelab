@@ -260,45 +260,9 @@ Successfully identified and documented compatibility limitations while validatin
 
 ---
 
-# 📊 Project 5: SIEM and Security Monitoring
 
-## Objective
 
-Develop a Security Operations Center (SOC) style monitoring platform for centralized event collection and analysis.
-
-## Planned Monitoring Use Cases
-
-### Authentication Monitoring
-
-- Successful Logons
-- Failed Logons
-- Account Lockouts
-
-### Active Directory Monitoring
-
-- User Creation
-- Password Changes
-- Group Membership Changes
-- Privilege Escalation Activities
-
-### Security Operations
-
-- Alert Creation
-- Event Correlation
-- Incident Investigation
-- Log Management
-
-## Skills Developed
-
-- SIEM Concepts
-- Event Analysis
-- Security Monitoring
-- Threat Detection
-- Log Management
-
----
-
-# 🎯 Project 6: Vulnerable Host Administration
+# 🎯 Project 5: Vulnerable Host Administration
 
 ## Objective
 
